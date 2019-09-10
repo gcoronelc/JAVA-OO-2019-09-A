@@ -51,7 +51,7 @@
 - Repositorio de curso Java: https://github.com/gcoronelc/SISTUNI_PROG_JAVA_004
 - Repositorio de curso Java: https://github.com/gcoronelc/CEPSUNI_JAVA_OO_002
 - Repositorio de curso Java: https://github.com/gcoronelc/CEPSUNI_JAVA_OO_001
-- Java Frameworks: https://www.facebook.com/groups/javaframeworks/
+- Desarrolla Software: https://www.facebook.com/groups/DesarrollaSoftware
 - Universidad Java: https://www.facebook.com/groups/universidadjava/
 - Proyectos y Procesos: https://www.facebook.com/groups/ProyectosProcesos/
 - Recorrido de un arreglo: http://gcoronelc.blogspot.pe/2015/03/java-8-loop-through-array.html
