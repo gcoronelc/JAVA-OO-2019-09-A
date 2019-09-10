@@ -18,31 +18,6 @@
 - Correo: gcoronelc@gmail.com
 - Canal Youtube: https://www.youtube.com/c/DesarrollaSoftware
 
-# RECURSOS RECOMENDADOS
-
-- Curso de Git: https://www.udemy.com/git-bash/
-- Curso Git: http://www.desarrolloweb.com/articulos/entiende-instala-configura-git.html
-- Curso Git: https://www.youtube.com/watch?v=NmbqlkLTOSI
-- Portal de cursos virtuales: HTTP://www.librosdigitales.net
-- Recursos de Java: http://gcoronelc.blogspot.pe/p/java.html
-- Repositorio de curso Java: https://github.com/gcoronelc/PECI-Java-MAR-2015
-- Repositorio de curso Java: https://github.com/gcoronelc/SISTUNI_PROG_JAVA_001
-- Repositorio de curso Java: https://github.com/gcoronelc/SISTUNI_PROG_JAVA_002
-- Repositorio de curso Java: https://github.com/gcoronelc/SISTUNI_PROG_JAVA_003
-- Repositorio de curso Java: https://github.com/gcoronelc/SISTUNI_PROG_JAVA_004
-- Repositorio de curso Java: https://github.com/gcoronelc/CEPSUNI_JAVA_OO_002
-- Repositorio de curso Java: https://github.com/gcoronelc/CEPSUNI_JAVA_OO_001
-- Curso virtual de Java: https://www.edx.org/course/programacion-orientada-objetos-mexicox-upevipn02x
-- Java Frameworks: https://www.facebook.com/groups/javaframeworks/
-- Universidad Java: https://www.facebook.com/groups/universidadjava/
-- Proyectos y Procesos: https://www.facebook.com/groups/ProyectosProcesos/
-- Recursos de Programación: https://coderanch.com/
-- Recorrido de un arreglo: http://gcoronelc.blogspot.pe/2015/03/java-8-loop-through-array.html
-- Recorrido de un arreglo: http://gcoronelc.blogspot.pe/2016/12/java-recorrido-de-un-arreglo_19.html
-- Recorrido de una lista: http://gcoronelc.blogspot.pe/2016/12/java-recorrido-de-una-lista.html
-- Interfaces Funcionales: http://gcoronelc.blogspot.pe/2015/03/java-8-functional-interfaces.html
-- Código fuente: https://goo.gl/GRaOQg
-
 
 # RECURSOS DEL CURSO
 
@@ -58,6 +33,33 @@
 - Lección 07: http://gcoronelc.blogspot.pe/2013/09/java-poo-leccion-07-arreglos.html
 - Lección 08: http://gcoronelc.blogspot.pe/2014/04/java-poo-leccion-08-colecciones.html
 - Lección 09: http://gcoronelc.blogspot.pe/2014/04/java-poo-leccion-09-excepciones.html
+
+
+# CURSOS VIRTUALES
+
+- JAVA OO: https://gcoronelc.blogspot.com/2019/05/udemy-java-orientado-objetos.html
+- JAVA JDBC: http://gcoronelc.blogspot.com/2019/06/udemy-java-jdbc-oracle.html
+
+
+# RECURSOS RECOMENDADOS
+
+- Recursos de Java: http://gcoronelc.blogspot.pe/p/java.html
+- Repositorio de curso Java: https://github.com/gcoronelc/PECI-Java-MAR-2015
+- Repositorio de curso Java: https://github.com/gcoronelc/SISTUNI_PROG_JAVA_001
+- Repositorio de curso Java: https://github.com/gcoronelc/SISTUNI_PROG_JAVA_002
+- Repositorio de curso Java: https://github.com/gcoronelc/SISTUNI_PROG_JAVA_003
+- Repositorio de curso Java: https://github.com/gcoronelc/SISTUNI_PROG_JAVA_004
+- Repositorio de curso Java: https://github.com/gcoronelc/CEPSUNI_JAVA_OO_002
+- Repositorio de curso Java: https://github.com/gcoronelc/CEPSUNI_JAVA_OO_001
+- Java Frameworks: https://www.facebook.com/groups/javaframeworks/
+- Universidad Java: https://www.facebook.com/groups/universidadjava/
+- Proyectos y Procesos: https://www.facebook.com/groups/ProyectosProcesos/
+- Recorrido de un arreglo: http://gcoronelc.blogspot.pe/2015/03/java-8-loop-through-array.html
+- Recorrido de un arreglo: http://gcoronelc.blogspot.pe/2016/12/java-recorrido-de-un-arreglo_19.html
+- Recorrido de una lista: http://gcoronelc.blogspot.pe/2016/12/java-recorrido-de-una-lista.html
+- Interfaces Funcionales: http://gcoronelc.blogspot.pe/2015/03/java-8-functional-interfaces.html
+- Código fuente: https://goo.gl/GRaOQg
+
 
 
 
