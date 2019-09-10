@@ -7,9 +7,8 @@
 - Inicio: 19-ENE-2017
 - Duración: 24 Horas
 - Dirección: https://goo.gl/maps/98vwAt9NZMU2
-- Programa: http://www.sistemasuni.edu.pe/dmodulos/JavaveloperCC.html
-- Contenido: http://www.sistemasuni.edu.pe/dcursos/cursoPjava.html
-- Página: https://gcoronelc.github.io/SISTUNI_PROG_JAVA_015/
+- Youtube: https://www.youtube.com/watch?v=EKlwF12-l9Y&list=PLIRq7nByT7aRuBgD4UVRjrcUZFM8Fkbut
+- Página: http://gcoronelc.blogspot.com/p/java.html
 - Código fuente: https://goo.gl/GRaOQg
 
 # DOCENTE
@@ -17,6 +16,7 @@
 - Docente: Eric Gustavo Coronel Castillo
 - Blog: www.desarrollasoftware.com
 - Correo: gcoronelc@gmail.com
+- Canal Youtube: https://www.youtube.com/c/DesarrollaSoftware
 
 # RECURSOS RECOMENDADOS
 
