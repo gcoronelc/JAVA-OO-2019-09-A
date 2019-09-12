@@ -1,4 +1,4 @@
-/*
+/**
  * Hacer un programa para encontrar el importe
  * de una venta, se sabe que si la vanta se
  * realiza un Lunes o Miercoles has un descuento 
