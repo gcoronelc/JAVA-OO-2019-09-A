@@ -3,3 +3,7 @@ Clase 01
 1.- Clonar Repositorio
 2.- Revisar Java
 3.- Estructuras Secuenciales
+4.- Estrucuturas condicionales
+5.- Estrucuturas de bucle
+6.- Programación en capas y servicios
+7.- Clases y objetos
