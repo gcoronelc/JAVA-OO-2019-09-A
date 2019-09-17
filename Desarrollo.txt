@@ -7,3 +7,13 @@ Clase 01
 5.- Estrucuturas de bucle
 6.- Programación en capas y servicios
 7.- Clases y objetos
+
+Clase 02
+----------------------------
+1.- Miembros de Clase 
+2.- DTO
+3.- Proyecto aplicativo
+4.- Sobrecarga
+5.- Manejo de paneles
+6.- Proyecto aplicativo
+
