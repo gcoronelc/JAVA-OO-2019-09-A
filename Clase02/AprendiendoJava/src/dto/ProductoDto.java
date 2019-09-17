@@ -8,6 +8,23 @@ public class ProductoDto {
 	private double precio;
 	private boolean activo;
 
+	public ProductoDto() {
+		this.id = 5000;
+		this.nombre = "Zandia";
+		this.precio = 6.0;
+		this.stock = 4000;
+		this.activo = true;
+		System.out.println("Objeto creado.");
+	}
+
+
+	@Override
+	protected void finalize() throws Throwable {
+		System.err.println("Chau objeto.");
+	}
+
+	
+	
 	public int getId() {
 		return id;
 	}
