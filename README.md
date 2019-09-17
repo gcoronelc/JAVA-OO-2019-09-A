@@ -3,8 +3,8 @@
 # PROGRAMADOR JAVA
 
 - Lugar: SistemasUNI
-- Horario: MARTES y JUEVES DE 16 a 19 Horas
-- Inicio: 19-ENE-2017
+- Horario: MARTES y JUEVES DE 08 a 13 Horas
+- Inicio: 12-SET-2019
 - Duración: 24 Horas
 - Dirección: https://goo.gl/maps/98vwAt9NZMU2
 - Youtube: https://www.youtube.com/watch?v=EKlwF12-l9Y&list=PLIRq7nByT7aRuBgD4UVRjrcUZFM8Fkbut
