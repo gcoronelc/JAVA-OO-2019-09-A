@@ -7,6 +7,12 @@ package service;
  * @videos youtube.com/c/DesarrollaSoftware
  */
 public class Clase2 extends Clase1{
+
+	public Clase2() {
+		
+		super("Walter");
+		
+	}
 	
 	
 
