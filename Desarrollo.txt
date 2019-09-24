@@ -9,15 +9,18 @@ Clase 01
 7.- Clases y objetos
 
 Clase 02
---------------------------
-- Miembros de clase
-- DTO
-- Sobrecarga
-- JPanel
+----------------------------
+1.- Miembros de Clase 
+2.- DTO
+3.- Proyecto aplicativo
+4.- Sobrecarga
+5.- Manejo de paneles
+6.- Proyecto aplicativo
 
 
 Clase 03
------------------------------
-
-
+----------------------------------
+1.- Alcance de clase y de instancia
+2.- Ejemplos
+3.- Herencia
 
