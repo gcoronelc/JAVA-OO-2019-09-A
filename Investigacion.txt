@@ -12,6 +12,28 @@
 10.- Patrón facade 
 
 
+PROYECTO ALTERNATIVO
+--------------------------------------
+Desarrollar un programa que
+permita a un profesional 
+calcular su impuesto a la renta 2018.
+
+Considerar que el profesional 
+solo tiene ingresos de 4ta y 
+5ta categoría.
+
+El programa debe retornar un reporte de 
+ingresos, exonaraciones y impuesto
+a pagar.
+
+Consultar información en la SUNAT.
+-------------------------------
+
+
+
+
+
+
 
 	 
 	 
