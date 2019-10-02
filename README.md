@@ -60,6 +60,10 @@
 - Interfaces Funcionales: http://gcoronelc.blogspot.pe/2015/03/java-8-functional-interfaces.html
 - Código fuente: https://goo.gl/GRaOQg
 
+# FOTOS
+
+![PROGRAMADOR JAVA](https://raw.githubusercontent.com/gcoronelc/JAVA-OO-2019-09-A/master/Fotos/Foto1.jpg)
+![PROGRAMADOR JAVA](https://raw.githubusercontent.com/gcoronelc/JAVA-OO-2019-09-A/master/Fotos/Foto2.jpg)
 
 
 
