@@ -42,8 +42,17 @@
 
 # CURSOS VIRTUALES
 
-- JAVA OO: https://gcoronelc.blogspot.com/2019/05/udemy-java-orientado-objetos.html
-- JAVA JDBC: http://gcoronelc.blogspot.com/2019/06/udemy-java-jdbc-oracle.html
+## JAVA ORIENTADO A OBJETOS
+
+URL: https://bit.ly/2B3ixUW
+
+[![JAVA ORIENTADO A OBJETOS](http://img.youtube.com/vi/EKlwF12-l9Y/0.jpg)](http://www.youtube.com/watch?v=EKlwF12-l9Y "JAVA ORIENTADO A OBJETOS")
+
+## PROGRAMACIÓN DE BASE DE DATOS ORACLE CON JAVA JDBC
+
+URL: https://bit.ly/31apy0O
+
+[![JAVA JDBC CON BASE DE DATOS ORACLE](http://img.youtube.com/vi/MR53Xgeg28Y/0.jpg)](http://www.youtube.com/watch?v=MR53Xgeg28Y "JAVA JDBC CON BASE DE DATOS ORACLE")
 
 
 # RECURSOS RECOMENDADOS
